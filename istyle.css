@@ -5,7 +5,13 @@ audio {
 	margin-left: 450px;
 	margin-top: 230px;
 }
-.RSH1a {
+#RSH1a {
+	height: 50px;
+    width: 360px;
+	margin-left: 450px;
+	margin-top: 230px;
+}
+#RSH2a {
 	height: 50px;
     width: 360px;
 	margin-left: 450px;
